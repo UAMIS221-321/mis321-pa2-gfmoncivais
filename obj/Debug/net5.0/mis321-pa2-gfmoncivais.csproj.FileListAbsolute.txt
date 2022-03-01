@@ -1,0 +1,15 @@
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.csproj.AssemblyReference.cache
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.AssemblyInfoInputs.cache
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.AssemblyInfo.cs
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.csproj.CoreCompileInputs.cache
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/bin/Debug/net5.0/mis321-pa2-gfmoncivais.deps.json
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/bin/Debug/net5.0/mis321-pa2-gfmoncivais.runtimeconfig.json
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/bin/Debug/net5.0/mis321-pa2-gfmoncivais.runtimeconfig.dev.json
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/bin/Debug/net5.0/mis321-pa2-gfmoncivais.dll
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/bin/Debug/net5.0/ref/mis321-pa2-gfmoncivais.dll
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/bin/Debug/net5.0/mis321-pa2-gfmoncivais.pdb
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.dll
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/ref/mis321-pa2-gfmoncivais.dll
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.pdb
+/Users/guadalupemoncivais/Documents/MIS321/mis321-pa2-gfmoncivais/obj/Debug/net5.0/mis321-pa2-gfmoncivais.genruntimeconfig.cache
